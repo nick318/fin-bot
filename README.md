@@ -8,6 +8,6 @@ git clone..
 add token.txt file with token of bot into directory
 
 **To run it:**
-mvn package
-cd target
+mvn package<br>
+cd target<br>
 java -jar chat-bot-1.0-SNAPSHOT-jar-with-dependencies.jar
